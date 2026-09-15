@@ -1,0 +1,6 @@
+{
+  "name": "Controle de Viagens",
+  "description": "Controle de viagens, fretes, despesas de transporte e resumo financeiro mensal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
